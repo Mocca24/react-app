@@ -15,7 +15,7 @@ root.render(
     </div>
   </StrictMode>
 );
-<div><p>
+ <div><p>
         <a
           href="https://github.com/Mocca24/react-app"
           target="_blank"
@@ -25,3 +25,4 @@ root.render(
         </a>
         , by Cynthia Alvez
       </p></div>
+
