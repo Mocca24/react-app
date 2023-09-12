@@ -1,8 +1,9 @@
 import React from "react";
+import "./Footer.css"
 
 export default function Footer() {
   return (
-    <div>
+    <div className="Git">
      <p>
         <a
           href="https://github.com/Mocca24/react-app"
