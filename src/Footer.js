@@ -1,5 +1,6 @@
 import React from "react";
-export default function gitUrl() {
+
+export default function Footer() {
   return (
     <div>
      <p>
